@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/p_portfolio/static/css/main.080dffb2.css",
+    "main.js": "/p_portfolio/static/js/main.dc07de30.js",
+    "static/media/abhipic222.png": "/p_portfolio/static/media/abhipic222.5e4c32830f8fae159083.png",
+    "static/media/latestpic-PhotoRoommmmm (2).png": "/p_portfolio/static/media/latestpic-PhotoRoommmmm (2).f6bbfa2c4b4a215c39c5.png",
+    "static/media/Abhinav's Resume (3).pdf": "/p_portfolio/static/media/Abhinav's Resume (3).4821124d5f4f52fc4cd7.pdf",
+    "static/media/bootstrap icon1.jpeg": "/p_portfolio/static/media/bootstrap icon1.f60e91438c9271db445e.jpeg",
+    "static/media/pridictify logo.jpg": "/p_portfolio/static/media/pridictify logo.ec287096025b96e253d4.jpg",
+    "static/media/note taking pic main.jpg": "/p_portfolio/static/media/note taking pic main.90a8a3b11c459accf7ad.jpg",
+    "static/media/a22.png": "/p_portfolio/static/media/a22.e2a68cc046f1df109c49.png",
+    "static/media/a23.1.png": "/p_portfolio/static/media/a23.1.8740c3ef07408ce05ac1.png",
+    "index.html": "/p_portfolio/index.html",
+    "main.080dffb2.css.map": "/p_portfolio/static/css/main.080dffb2.css.map",
+    "main.dc07de30.js.map": "/p_portfolio/static/js/main.dc07de30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.080dffb2.css",
+    "static/js/main.dc07de30.js"
+  ]
+}
